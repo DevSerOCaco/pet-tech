@@ -1,4 +1,4 @@
-package br.com.devserocaco.pettech.pettech;
+package br.com.devserocaco.pettech.pettech.controller.exception;
 
 import java.time.Instant;
 

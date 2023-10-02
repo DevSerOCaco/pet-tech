@@ -1,5 +1,6 @@
-package br.com.devserocaco.pettech.pettech;
+package br.com.devserocaco.pettech.pettech.repository;
 
+import br.com.devserocaco.pettech.pettech.entities.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

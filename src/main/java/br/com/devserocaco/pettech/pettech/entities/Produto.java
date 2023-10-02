@@ -1,4 +1,4 @@
-package br.com.devserocaco.pettech.pettech;
+package br.com.devserocaco.pettech.pettech.entities;
 
 import jakarta.persistence.*;
 
